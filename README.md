@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danoco78
 - 👀 I’m interested in Flutter, Angular + Ionic And Python and low code technologies
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on multi platform development and low code development
 - 📫 How to reach me @danoco78
 
